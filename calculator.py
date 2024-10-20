@@ -21,7 +21,7 @@ while True:
             n = a // b
             print(a, '//', b, '=', n)
         else:
-            print('Incorrect operator, try again!!')
+            print('Incorrect operator, try again!')
             continue
     else:
         y = input('Enter operation: ')
